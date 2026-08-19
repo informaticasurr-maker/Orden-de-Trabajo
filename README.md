@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/f60aa3ba-6a63-4f6d-a86a-a65e1ad7eda0
+View your app in AI Studio: https://codeghos-ordendereparacion.ai.studio
 
 ## Run Locally
 
@@ -18,4 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/f60aa3ba-6a63-4f6d-a86a-a65e1
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# Orden-de-Trabajo
 # Orden-de-Trabajo
